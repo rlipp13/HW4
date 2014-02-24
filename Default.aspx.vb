@@ -27,5 +27,6 @@ Partial Class _Default
         pretaxdedstb.Text = ""
         aftertaxdedstb.Text = ""
         resultslbl.Text = ""
+
     End Sub
 End Class
