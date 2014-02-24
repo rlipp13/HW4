@@ -5,12 +5,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title></title>
+    <link href="StyleSheet.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
     <form id="form1" runat="server">
-    <div>
+    <div title="SALARY CALCULATOR">
     
-        Salary Calculator<br />
+        SALARY CALCULATOR<br />
         <br />
         Hourly wage:
         <asp:TextBox ID="hourlywagetb" runat="server"></asp:TextBox>

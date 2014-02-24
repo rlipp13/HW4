@@ -1,6 +1,7 @@
-body {background-color: gray;
+﻿body {background-color: gray;
             font-size: larger;
             font-weight: bold;
+    height: 368px;
 }
 
 .title {
