@@ -29,14 +29,15 @@
         <br />
         <br />
         <br />
-        Net Pay:
+        NET PAY:
         <asp:Label ID="resultslbl" runat="server"></asp:Label>
         <br />
         <br />
-        <asp:Button ID="calculatebtn" runat="server" Height="40px" Text="Calculate" Width="152px" />
-        <br />
-        <br />
+        <asp:Button ID="calculatebtn" runat="server" Height="40px" Text="Calculate" Width="161px" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <asp:Button ID="clearbtn" runat="server" Text="Clear All" />
+        <br />
+        <br />
     
     </div>
     </form>
